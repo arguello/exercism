@@ -1,0 +1,8 @@
+{application,bob,
+             [{description,[]},
+              {vsn,"0.0.1"},
+              {modules,[bob]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {included_applications,[]},
+              {env,[]}]}.

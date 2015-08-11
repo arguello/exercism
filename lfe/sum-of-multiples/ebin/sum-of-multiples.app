@@ -1,0 +1,8 @@
+{application,'sum-of-multiples',
+             [{description,[]},
+              {vsn,"0.0.1"},
+              {modules,['sum-of-multiples']},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {included_applications,[]},
+              {env,[]}]}.
